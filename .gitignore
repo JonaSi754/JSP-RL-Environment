@@ -1,0 +1,10 @@
+/model
+/JSPCustomEnv
+/code/test
+/code/gail
+/code/algo/outputs
+/code/algo/model_test.py
+/code/algo/rule_schedule.py
+
+**/__pycache__/
+.vscode/
